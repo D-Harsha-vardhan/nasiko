@@ -725,7 +725,7 @@ docs/           Design docs (architecture, protocol, conventions)
 
 ## Support
 
-Questions, ideas, or stuck on setup? Join the community on Discord:
+Questions, ideas, or stuck on setup? Join the community on Discord :
 
 **[discord.com/invite/HmnfkTfjFv](https://discord.com/invite/HmnfkTfjFv)**
 
